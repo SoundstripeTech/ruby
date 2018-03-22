@@ -1,10 +1,6 @@
-# Ruby Style Guide
+# Soundstripe Ruby Style Guide
 
-This is Airbnb's Ruby Style Guide.
-
-It was inspired by [GitHub's guide](https://web.archive.org/web/20160410033955/https://github.com/styleguide/ruby) and [Bozhidar Batsov's guide][bbatsov-ruby].
-
-Airbnb also maintains a [JavaScript Style Guide][airbnb-javascript].
+**This is a fork of AirBnb's style guide, edited to match our preferences.**
 
 ## Table of Contents
   1. [Whitespace](#whitespace)
